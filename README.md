@@ -1,8 +1,8 @@
 ## Novel Yonas
 Date of birth: 07/12/1992
-Nationality: **_Eritrean_** 
+>Nationality: **_Eritrean_** 
 
-Geologist with 8+ years of experience in exploration, mining, and geological surveying, specializing in resource evaluation and project management. Proven expertise in geological data acquisition and analysis, drilling supervision, and 3D geological modeling using industry-standard software. Currently pursuing MIT's Emerging Talent's Computer and Data Science Certificate to integrate data science techniques into geological workflows. Committed to sustainable resource exploration and development, with a strong focus on environmental responsibility and safety.
+**Geologist** with 8+ years of experience in exploration, mining, and surveying, specializing in resource evaluation and project management. Proven expertise in geological data acquisition and analysis, drilling supervision, and 3D geological modeling using industry-standard software. Currently pursuing MIT's Emerging Talent's Computer and Data Science Certificate to integrate data science techniques into geological workflows. Committed to sustainable resource exploration and development, with a strong focus on environmental responsibility and safety.
 
 ## Connect:
 
